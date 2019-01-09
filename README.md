@@ -9,4 +9,4 @@ Once you have replaced the TOKEN variable you should be able to simply invite th
 Commands:
 Use !build <link> with the link to a shopify product and it will return ATC links.
 
-This isn't meant to be very difficult or complex, but I rather want it to allow new developers to see examples of requests and how you can use them to make cool functional projects. If you have any questions shoot me an email: supmaster10@gmail.com
+This isn't meant to be very difficult or complex, but I want it to allow new developers to see examples of requests and how you can use them to make cool functional projects. If you have any questions shoot me an email: supmaster10@gmail.com
